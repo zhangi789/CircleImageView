@@ -15,8 +15,10 @@
           implementation 'com.github.zhangi789:CircleImageView:1.0'
 	}
 
-    使用方法:
-   <com.custom.cn.CircleImageView
+Usage
+-----
+```xml
+  <com.custom.cn.CircleImageView
         android:id="@+id/profile_image"
         android:layout_width="96dp"
         android:layout_height="96dp"
@@ -25,4 +27,5 @@
         app:civ_border_color="#d93cf1"
         app:civ_border_overlay="false"
         app:civ_border_width="1dp" />
+
 

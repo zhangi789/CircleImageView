@@ -32,7 +32,11 @@ Usage
  
 
 
-| 头像 
-| ----------
-| <img src="screenshot/QQ图片20180827181118.jpg">|
+## Demo介绍
 
+    RxPhotoTool操作UCrop裁剪图片
+
+
+| 展示头像 | 选择头像 | 裁剪头像 |
+| ---------- | ------------- | ------------- |
+| <img src="screenshot/QQ图片20180827181118.jpg"> |

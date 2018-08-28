@@ -29,7 +29,3 @@ Usage
         app:civ_border_width="1dp" />
 ## Demo介绍
 ![](https://github.com/zhangi789/CircleImageView/blob/master/screenshot/QQ.jpg)
-
-
-//http://p1.qhimgs4.com/t0182c6626a7f35d6cf.webp
-![](http://p1.qhimgs4.com/t0182c6626a7f35d6cf.webp)

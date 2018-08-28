@@ -1,3 +1,6 @@
+##效果图
+<img src="https://github.com/zhangi789/CircleImageView/blob/master/screenshot/QQ.jpg" width="50%" height="50%" div align=center>
+
 
 ![](https://github.com/zhangi789/CircleImageView/blob/master/screenshot/QQ.jpg)
 ## 如何使用它

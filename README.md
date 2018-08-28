@@ -28,4 +28,4 @@ Usage
         app:civ_border_overlay="false"
         app:civ_border_width="1dp" />
 ## Demo介绍
-![](https://github.com/zhangi789/CircleImageView/blob/master/screenshot/QQ.jpg)
+![](https://github.com/zhangi789/CircleImageView/blob/master/screenshot/qresult.jpg)

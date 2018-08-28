@@ -1,6 +1,6 @@
 ## 效果图
 
-<img src="https://github.com/zhangi789/CircleImageView/blob/master/screenshot/QQ.jpg" width="40%" height="40%" div align=center>
+<img src="https://github.com/zhangi789/CircleImageView/blob/master/screenshot/QQ.jpg" width="30%" height="30%" div align=center>
 
 
 

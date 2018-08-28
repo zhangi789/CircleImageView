@@ -1,8 +1,5 @@
-##效果图
-<img src="https://github.com/zhangi789/CircleImageView/blob/master/screenshot/QQ.jpg" width="50%" height="50%" div align=center>
-
-
-![](https://github.com/zhangi789/CircleImageView/blob/master/screenshot/QQ.jpg)
+##效果图</br>
+<img src="https://github.com/zhangi789/CircleImageView/blob/master/screenshot/QQ.jpg" width="40%" height="40%" div align=center>
 ## 如何使用它
 
 > Step 1.先在 build.gradle(Project:XXXX) 的 repositories 添加:

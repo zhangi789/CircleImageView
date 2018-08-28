@@ -1,8 +1,20 @@
 ## 效果图
-<br>
+
 <img src="https://github.com/zhangi789/CircleImageView/blob/master/screenshot/QQ.jpg" width="40%" height="40%" div align=center>
-<br>
-## 如何使用它
+
+
+
+
+
+## CircleImageView
+圆角图片 适用范围（个人中心-图片上传）
+
+
+## tip
+欢迎朋友们多多star支持
+
+
+## 集成AS
 
 > Step 1.先在 build.gradle(Project:XXXX) 的 repositories 添加:
 
@@ -19,10 +31,10 @@
           implementation 'com.github.zhangi789:CircleImageView:1.0'
 	}
 
-Usage
+## Usage
 -----
 ```xml
-  <com.custom.cn.CircleImageView
+ <com.custom.cn.CircleImageView
         android:id="@+id/profile_image"
         android:layout_width="96dp"
         android:layout_height="96dp"

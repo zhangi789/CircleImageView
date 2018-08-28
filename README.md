@@ -28,10 +28,4 @@ Usage
         app:civ_border_overlay="false"
         app:civ_border_width="1dp" />
 ## Demo介绍
-
- 
-
-
-## Demo介绍
-| ---------- | ------------- | ------------- |
-| <img src="screenshot/QQ图片20180827181118.jpg"> |
+![Alt text](https://github.com/zhangi789/CircleImageView/tree/master/screenshot/QQ图片20180827181118.jpg)
